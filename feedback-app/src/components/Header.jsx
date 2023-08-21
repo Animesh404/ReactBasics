@@ -1,4 +1,5 @@
-import PropTypes from 'prop-types'
+import PropTypes from 'prop-types' //impt
+
 
 function Header({text, bgColor, textColor}) { //or Header({text}) and use text instead of props.text
 
